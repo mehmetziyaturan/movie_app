@@ -10,3 +10,4 @@ Movie searches can be done in the search section. Data is fetched from www.themo
 </ul>
 
 # Preview:
+![movie_app2](https://github.com/user-attachments/assets/871a6dc5-1e67-4bb2-ac65-f36a73e41ada)
